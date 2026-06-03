@@ -6,3 +6,5 @@ Features:
 - Community's techniques
 - Weapons filters
 - Favorites moves list
+
+Only available on Android right now.
